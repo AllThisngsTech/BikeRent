@@ -87,7 +87,7 @@ API : localhost:<yourPort>/user/login
 "_id":"5ef30d5e93512327a5ab831",// populates by typeId
 "status":"false"
 
-## Create Bikes(post request)
+## Create Bikes(post)
 localhost:<yourPort>/rentals
  Body:
   {
